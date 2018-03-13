@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "C&amp;S Telecom",
+    "name": "CS Telecom",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -32,6 +32,11 @@
       ]
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/perfil-cs-telecom-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.6.5",
     "uniqCompNum": 8,
     "versionPublish": "4.6.5"
