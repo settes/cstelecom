@@ -47,8 +47,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "C&S Telecom",
+        "meta_descr": "C&S Telecom",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
