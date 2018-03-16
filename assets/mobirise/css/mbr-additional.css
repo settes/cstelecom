@@ -2200,7 +2200,7 @@ body {
 }
 .cid-qMppHQExTG {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
 @media (max-width: 767px) {
@@ -2221,7 +2221,7 @@ body {
   color: #f36;
 }
 .cid-qMppHQExTG .media-wrap img {
-  height: 6rem;
+  height: 9rem;
 }
 @media (max-width: 767px) {
   .cid-qMppHQExTG .footer-lower .copyright {
@@ -2264,4 +2264,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qMppHQExTG .copyright > p {
+  text-align: left;
 }
