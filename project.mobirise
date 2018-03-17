@@ -722,7 +722,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/pexels-photo-315640-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -740,7 +740,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/lab-500x410.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -752,7 +752,7 @@
                 "title": "<b><br></b><br><b>Laboratório Especializado</b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Economize realizando a manutenção nos seus aparelhos.<br><br>",
+                "text": "Economize realizando a manutenção nos seus aparelhos PABX.<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"index.html#features8-6\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a>",
                 "overlayOpacity": "0.7"
               },
